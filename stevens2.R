@@ -1,3 +1,5 @@
+
+#Hello! This is my practice session for K cross validation.....Thank You!!
 stevens<-read.csv("stevens.csv")
 str(stevens)
 library(caTools)
